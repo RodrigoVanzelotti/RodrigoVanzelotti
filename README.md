@@ -1,3 +1,6 @@
+# Hey, I'm Rodrigo Vanzelotti
+#### Python Dev, Computer and Electrical Engineering student. Nice to meet you 👋
+
 <div align="left">
   <a href="https://github.com/RodrigoVanzelotti">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RodrigoVanzelotti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
