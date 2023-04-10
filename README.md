@@ -1,5 +1,6 @@
 # Hey, I'm Rodrigo Vanzelotti
-#### Python Junior Dev, Computer and Electrical Engineering student. Nice to meet you 👋
+#### Python Junior Dev, Computer and Electrical Engineering student. 
+#### Passionate about tech and people. Nice to meet you 👋
 
 <div align="left">
   <a href="https://github.com/RodrigoVanzelotti">
