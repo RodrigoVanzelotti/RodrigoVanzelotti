@@ -1,5 +1,5 @@
 # Hey, I'm Rodrigo Vanzelotti
-#### Python Dev, Computer and Electrical Engineering student. Nice to meet you 👋
+#### Python Junior Dev, Computer and Electrical Engineering student. Nice to meet you 👋
 
 <div align="left">
   <a href="https://github.com/RodrigoVanzelotti">
