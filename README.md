@@ -1,5 +1,5 @@
 # Hey, I'm Rodrigo Vanzelotti
-#### Python Junior Dev, ex-Electrical and Computer Engineering student. 
+#### Software Engineer Analyst, ex-Electrical and Computer Engineering student. 
 #### Passionate about tech and people. Nice to meet you 👋
 
 <div align="left">
